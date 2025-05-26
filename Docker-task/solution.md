@@ -31,8 +31,8 @@ Docker is an open-source platform that makes it easier to create, run, and manag
 
 Containers work really well for **microservices** because each service can run in its own container. This makes it easier to update, test, and scale each part of an app separately. In **CI/CD pipelines**, containers make the process faster and more reliable by ensuring the app runs the same way at every step—from coding and testing to deployment. That’s why containerization is the preferred choice in modern DevOps.
 
-### Components of Docker:-
-1) ## Docker Engine
+## Components of Docker:-
+1) ### Docker Engine
 Docker Engine is the core software that enables Docker to run containers. It’s the client-server application that manages the lifecycle of containers.
 
 🔹 Components of Docker Engine
